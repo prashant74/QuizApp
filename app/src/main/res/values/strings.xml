@@ -1,0 +1,34 @@
+<resources>
+  <string name="app_name">QuizApp</string>
+  <string name="label_quiz">Check your GK</string>
+  <string name="question_tag_one">Question 1:</string>
+  <string name="question_tag_two">Question 2:</string>
+  <string name="question_tag_three">Question 3:</string>
+  <string name="question_tag_four">Question 4:</string>
+  <string name="question_tag_five">Question 5:</string>
+
+  <string name="question_one">Is National flag of which country?</string>
+  <string name="question_two">How many continents are in the world?</string>
+  <string name="question_three">What is the value of expression : 100-(20*3)</string>
+  <string name="question_four">Which of these are states of India</string>
+  <string name="question_five">How many planets our solar system have?</string>
+  <string name="answer_one">India</string>
+  <string name="answer_two">7</string>
+  <string name="answer_three">40</string>
+  <string name="answer_five">8</string>
+  <string name="question_two_option_one">7</string>
+  <string name="question_two_option_two">8</string>
+
+  <string name="question_three_option_one">40</string>
+  <string name="question_three_option_two">240</string>
+
+  <string name="question_four_option_one">Uttar Pradesh</string>
+  <string name="question_four_option_two">Punjab</string>
+  <string name="question_four_option_three">California</string>
+  <string name="question_four_option_four">Texas</string>
+
+  <string name="question_five_option_one">8</string>
+  <string name="question_five_option_two">9</string>
+
+  <string name="label_submit">Know Your Score</string>
+</resources>
